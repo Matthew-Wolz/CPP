@@ -1,3 +1,0 @@
-This project demonstrates an understanding of inheritance in C++. This project will have five program files -- main.cpp, Employee.cpp, Employee.h, Manager.cpp and Manager.h.
-
-This program will take the inputs of multiple managers' names, wages, and hours to calculate the highest-paid manager and the average pay between all of the managers.
